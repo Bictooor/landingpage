@@ -1,0 +1,12 @@
+.footer{
+	background-color: slategray;
+	color: white;
+	padding: 16px 0px;
+	text-align: center;
+	font-family: 'Gemunu Libre', sans-serif;
+}
+.footer img{
+	text-align: center;
+	width: 256px;
+	margin: 20px;
+}

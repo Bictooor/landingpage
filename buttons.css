@@ -1,0 +1,44 @@
+
+
+.button-blue{
+	background-color:white ;
+	color: white;
+	font-weight: bold;
+	padding: 16px;
+	border-radius: 8px;
+	border: 1px black; solid;
+	margin: 24px auto;
+	display: block;
+	width:  50%;
+	transition: 1s;
+	font-family: 'Gemunu Libre', sans-serif;
+	text-decoration-color: white; 
+	text-align: center;
+	font-size: 40px;
+
+ }
+ .button:hover {
+ 		background-color: white;
+ 		color: #F1BA56;
+ 		transition: 1s}
+ #form-button{
+ 	text-align: center;
+ 	margin: 16px 8px;
+ }
+
+ .button {
+ 	background-color:#F1BA56 ;
+	color: white;
+	font-weight: bold;
+	padding: 16px;
+	border-radius: 8px;
+	border: 1px #F1BA56 solid;
+	margin: 16px auto;
+	display: block;
+	width:  20%;
+	transition: 1s;
+	font-family: 'Gemunu Libre', sans-serif;
+	text-decoration-color: #F1BA56; 
+	text-align: center;
+	font-size: 16px;
+ }
