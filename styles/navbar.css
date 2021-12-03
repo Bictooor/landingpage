@@ -1,0 +1,22 @@
+.navbar{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: 8px;
+	padding-bottom: 0px;
+	position: sticky;
+	top: 0;
+	background-color: white;
+}
+.navbar img{
+	width: 75px;
+
+}
+.nav-menu{
+	list-style: none;
+
+}
+.nav-item{
+	display: inline;
+	margin:  0 8px 0 8px;
+}

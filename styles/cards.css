@@ -1,0 +1,43 @@
+.cards{
+display: grid;	
+grid-template-columns: 1fr;
+grid-gap: 8px;
+margin: 48px 0px ;
+margin-top: 26px;
+}
+.card{  
+border-radius: 7px;
+padding: 7px;
+text-align: center;
+width: 250px;
+box-shadow:#0000006b 0px 0px 4px 1px ;
+justify-self: center;
+background-color:slategrey ;
+}
+ .card h3{
+    color: white;
+    font-family: 'Gemunu Libre', sans-serif;
+ }
+ .card p{
+    color: white;
+    font-family: 'Gemunu Libre', sans-serif;}
+    
+ .card img { 
+  width: 250px;
+ 	 }
+ @media(min-width : 580px)
+ {
+ .cards{
+ 		grid-template-columns: 1fr 1fr
+ 	}
+.cards h1{
+   text-decoration: bold;
+}
+
+ }
+ @media(min-width: 1200px){
+ 	.cards{
+ 		grid-template-columns: 1fr 1fr 1fr;
+      background-color:#F1BA56;
+ 	}
+ }

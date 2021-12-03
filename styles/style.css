@@ -1,0 +1,116 @@
+@import url(banner.css);
+@import url(buttons.css);
+@import url(cards.css);
+@import url(footer.css);
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@600&display=swap');
+@import url(navbar.css);
+@import url(les_menus.css);
+@import url(First.css);
+
+
+
+h1 {
+	margin-top: 0;
+    font-family:'Gemunu Libre', sans-serif; 
+    text-align: center;
+    margin-top: 10px ;}
+.body h2{
+    color: #F1BA56; !important;
+
+}
+body{
+	margin:  0;
+    background-color: slategray !important;
+    font-family:'Gemunu Libre', sans-serif;
+    font-size:15px;
+    color:white;
+    margin:0;
+    padding:0;
+}
+/* header */
+.logo, .les_menus
+{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    font-family:'Gemunu Libre', sans-serif;
+    font-size:16px;
+    text-align:center;
+}
+
+.les_menus ul li
+{
+    display:inline-block;
+    margin: 38px;
+     
+}
+.les_menus img{
+    width: 56px;
+    margin: 10px;
+}
+.image_victor img{
+    margin: auto;
+    display: flex;
+}
+a
+{
+    text-decoration:none;
+    color:white;
+     
+}
+p{
+    text-align: center;
+}
+.les_menus ul
+{
+    background: url("images/Logo BRM La Musique.png");
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+}
+.les_menus ul li a:hover
+{
+    color:#F1BA56;
+    border-bottom:4px solid #F1BA56;
+}
+.centre1
+{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:100px;
+    width:900px;
+}
+.centre1 .texte_top
+{
+    text-align:center;
+    font-family:'Gemunu Libre', sans-serif;
+}
+}
+.banner h1{
+   font-family: 'Gemunu Libre', sans-serif;;
+	color: white;
+ }
+ .banner h2{
+   font-family: 'Gemunu Libre', sans-serif;;
+ 	color: white;
+   text-align: center;
+ }
+ h2{
+   font-family: 'Gemunu Libre', sans-serif;;
+    text-align: center;
+    color: #F1BA56;
+ }
+ a{
+   font-family: 'Gemunu Libre', sans-serif;;
+ 	text-decoration: none;
+ }
+ img{
+    width: 250px;
+    
+ }
+ h3{
+    text-align: center;
+ }
+ 
